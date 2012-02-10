@@ -1,0 +1,7 @@
+a simple server wrapper for tomcat and jetty
+
+directly start up your tomcat or jetty withou install plugin,it is very lightweight.
+
+run or debug Starter in eclipse directly
+
+you can config server information in server.properties  
